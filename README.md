@@ -470,7 +470,7 @@ This implementation demonstrates:
 
 ## Author
 
-**Monjaraz Briseno Luis Fernando**
+**Monjaraz Briseño Luis Fernando**
 
 ## License
 
@@ -497,3 +497,4 @@ Possible improvements:
 ---
 
 For questions, issues, or contributions, please contact the author.
+
